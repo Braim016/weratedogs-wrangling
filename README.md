@@ -1,7 +1,7 @@
 # WeRateDogs Wrangling Project 
 
 ## Project Aim
-The goal of this project is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. This project will majorly demonstrate my data wrangling skills (Gathering, Accessing, Cleaning, Documenting, and Storing).
+The goal of this project is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. This project will majorly demonstrate my data wrangling skills (Gathering, Assessing, Cleaning, Documenting, and Storing).
 
 ## Method of Analysis
 I'll start this project by importing the required libraries then gathering data by:
